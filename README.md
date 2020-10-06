@@ -2,7 +2,7 @@
 
 We will be sending you a basic skills test that will test your skills in R, the surveillance of infectious diseases, and statistical consulting. As a part of this test, you will need to sign up for a free GitHub account (https://github.com/join).
 
-There are TWO tasks that you need to complete. 
+There are TWO tasks that you need to complete. If you have any questions, send an email to RichardAubrey.White@fhi.no 
 
 # Before you start
 
