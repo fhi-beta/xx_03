@@ -52,7 +52,7 @@ You are required to put your code in the following locations:
 
 - All functions are to be placed in .R files located in the `code_task1` folder (e.g. see `code_task1/CreateFakeData.R`)
 - You will write your master file/script/code (that runs all of the requested analyses by calling the functions in `code/*`) in `Run_task1.R` (this file already has a few lines of code in it)
-- Your results will be saved in the `results` folder
+- Your results will be saved in the `results_task1` folder
 
 ## Test: Coding
 
