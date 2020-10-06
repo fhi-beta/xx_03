@@ -43,7 +43,7 @@ The dataset `fhidata::norway_locations_b2020` contains a data.frame that links `
 
 1. Create a new repository called `xx_03_submission` in GitHub (https://help.github.com/articles/creating-a-new-repository/)
 2. Clone your new repository to your local computer (https://help.github.com/articles/cloning-a-repository/)
-3. Download the following zip file: https://github.com/folkehelseinstituttet/xx_01/archive/master.zip
+3. Download the following zip file: https://github.com/fhi-beta/xx_03/archive/master.zip
 4. Copy the files into your local `xx_03_submission` folder
 
 ## Folder/File Setup
