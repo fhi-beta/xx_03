@@ -64,7 +64,7 @@ You are required to put your code in the following locations:
 
 Do the following for each of the 356 municipalities (municip*), 11 counties (county*), and the national level ("norge"):
 
-10. Split the data into training data (`2010-52` to `2019-52`) and production data (`2020-01` to `2020-53`)
+10. Split the data into training data (`2010-01` to `2019-52`) and production data (`2020-01` to `2020-53`)
 11. Use the training data to create a regression model that predicts the expected weekly number of sick people. You will need to determine an appropriate regression model (e.g. does the data have seasonality? a trend?). You can do this by either a) examining the code in the function `CreateFakeDataForOneMunicipality` inside `code_task1/CreateFakeData.R` or b) by performing your own statistical analyses. Please write a comment above your model indicating if you examined the code or performed your own statistical analysis. We consider both techniques to be valid and neither choice will be penalized or rewarded over the other.
 12. For the training data, create a 2 standard deviation prediction interval
 13. Identify the potential outbreaks in the training data (i.e. number of sick people > prediction interval)
