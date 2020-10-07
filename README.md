@@ -105,7 +105,7 @@ Please provide comments in your code that indicate which parts of your code prod
 
 ## Background
 
-You are a statistical consultant, and someone has come to you with a problem they need help with. You need to answer their question.
+You are a statistical consultant, and someone has come to you with a problem they need help with. You need to answer their question. **YOU MAY ANSWER IN EITHER ENGLISH OR NORWEGIAN.**
 
 ## Test: Question
 
