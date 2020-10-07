@@ -4,7 +4,7 @@ We will be sending you a basic skills test that will test your skills in R, the 
 
 There are TWO tasks that you need to complete. If you have any questions, send an email to RichardAubrey.White@fhi.no 
 
-**ALL TASKS MAY BE COMPLETED IN EITHER NORWEGIAN OR ENGLISH**
+**ALL TASKS MAY BE COMPLETED IN EITHER NORWEGIAN/DANISH/SWEDISH OR ENGLISH**
 
 # Before you start
 
@@ -107,7 +107,7 @@ Please provide comments in your code that indicate which parts of your code prod
 
 ## Background
 
-You are a statistical consultant, and someone has come to you with a problem they need help with. You need to answer their question. **YOU MAY ANSWER IN EITHER ENGLISH OR NORWEGIAN.**
+You are a statistical consultant, and someone has come to you with a problem they need help with. You need to answer their question. **YOU MAY ANSWER IN EITHER NORWEGIAN/DANISH/SWEDISH OR ENGLISH.**
 
 ## Test: Question
 
