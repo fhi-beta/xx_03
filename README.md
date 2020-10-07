@@ -109,7 +109,7 @@ You are a statistical consultant, and someone has come to you with a problem the
 
 ## Test: Question
 
-Hi. I am a researcher on water-bourne viruses. I want to test that Norwegian water is safe to drink. That is, I want to test that there is no association between drinking water and getting diarrhea. I want to do this through a longitudinal survey of people in Norway. On the first day of every month (for a year) I want to ask the survey participants:
+Hi. I am a researcher on water-bourne viruses. I want to test that Norwegian water is safe to drink. That is, I want to test that there is no association between drinking water and getting diarrhea. I want to do this through a longitudinal survey of people in Norway. On the first day of every month (for a year) I want to ask the survey participants (the same people will be asked each month):
 
 - Do you currently have diarrhea? (i.e. outcome)
 - How many glasses of water did you drink yesterday? (i.e. exposure)
