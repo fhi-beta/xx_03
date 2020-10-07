@@ -4,6 +4,8 @@ We will be sending you a basic skills test that will test your skills in R, the 
 
 There are TWO tasks that you need to complete. If you have any questions, send an email to RichardAubrey.White@fhi.no 
 
+**ALL TASKS MAY BE COMPLETED IN EITHER NORWEGIAN OR ENGLISH**
+
 # Before you start
 
 You will need to install some FHI R packages. You can do this via:
